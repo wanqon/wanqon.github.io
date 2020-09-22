@@ -1,3 +1,8 @@
+
+## Redis
+### [Lazy Free](https://github.com/wanqon/wanqon.github.io/blob/master/Redis/LazyFree.md)
+
+
 ## Welcome to GitHub Pages
 [Redis Lazy Free](https://github.com/wanqon/wanqon.github.io/blob/master/Redis/LazyFree.md)
 
