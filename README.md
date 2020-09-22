@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[Redis Lazy Free](https://github.com/wanqon/wanqon.github.io/blob/master/Redis/LazyFree.md)
 
 You can use the [editor on GitHub](https://github.com/wanqon/wanqon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
